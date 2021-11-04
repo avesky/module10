@@ -1,5 +1,5 @@
 """
-Program: Eployee.py
+Program: Employee.py
 Author: Andy Volesky
 Last date modified: 11/03/2021
 The purpose of this program:
