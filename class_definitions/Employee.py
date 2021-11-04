@@ -4,6 +4,26 @@ Author: Andy Volesky
 Last date modified: 11/03/2021
 The purpose of this program:
 
+Write an employee class.
+
+The class attributes are the following:
+last_name: string
+first_name: string
+address: string
+phone_number: string
+salaried: boolean
+start_date: datetime
+salary: double
+
+Methods:
+display() returns a string that when printed will follow the below format:
+
+Sasha Patel
+123 Main Street
+Urban, Iowa
+Salaried employee: $40,000/year       # OR Hourly employee: $7.25/hour
+Start date: 6-28-2019
+Note this will have some logic statements to check for salaried or hourly to construct the return string.
 
 """
 
