@@ -1,3 +1,32 @@
+"""
+Program: class_test.py
+Author: Andy Volesky
+Last date modified: 11/03/2021
+The purpose of this program:
+
+Include setUp() and tearDown() methods
+Write unit test test_object_created_required_attributes(self)
+Test constructor values set to only required attributes for acceptable values
+Write unit test test_object_created_all_attributes(self)
+Test constructor values set to all attributes for acceptable values
+Write unit test test_student_str(self)
+Test the str() method
+Write unit test test_object_not_created_error_last_name(self) that expect exception raised
+Add exception to constructor (not in test!)
+Write test_object_not_created_error_first_name(self)
+Add exception to constructor (not in test!)
+Write test_object_not_created_error_first_name(self)
+Add exception to constructor
+Write test_object_not_created_error_major(self)
+Add exception to constructor
+Write test_object_not_created_error_gpa(self)
+Add exception to constructor
+NOTE: look up how isinstance(gpa, float) works AND check range
+Write a main()
+Create 2 student objects and print them
+
+"""
+
 import unittest
 from Student import Student
 

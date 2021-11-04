@@ -1,4 +1,12 @@
+"""
+Program: Student.py
+Author: Andy Volesky
+Last date modified: 11/03/2021
+The purpose of this program:
 
+create a student class for unit testing.
+
+"""
 
 class Student:
     """Student class"""
